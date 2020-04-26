@@ -1,5 +1,5 @@
 # Criando readme pelo gedit
 
-![./picodabandeira.jpg](Pico da Bandeira)
+![./picodabandeira.png](Pico da Bandeira)
 
 Dá pra colocar vídeo e etc
